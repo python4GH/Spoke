@@ -33,7 +33,7 @@ const env_production = {
   TWILIO_ACCOUNT_SID:'',
   TWILIO_AUTH_TOKEN:'',
   TWILIO_STATUS_CALLBACK_URL:'http://example.com:3000/twilio',
-  PHONE_NUMBER_COUNTRY: 'US',
+  PHONE_NUMBER_COUNTRY: 'GH',
   EMAIL_HOST: "",
   EMAIL_HOST_PASSWORD: "",
   EMAIL_HOST_USER: "",
